@@ -1,17 +1,24 @@
 body {
  font-family: 'Fjalla One', sans-serif;
  background-color: #1C18F4;
- color: white;
 }
 
 .title {
- padding: 25px;
+ padding: 5px;
  border: 10px;
  font-size: 50px;
+ color: white;
 }
 
 .about {
-  padding: 25px;
+  padding: 5px;
   border: 10px;
   font-size: 25px; 
+  color: white;
 }
+
+.newsletter {
+  padding: 5px;
+  border: 10px;
+}
+ 
