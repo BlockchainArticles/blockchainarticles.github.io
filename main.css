@@ -3,13 +3,13 @@ body {
 }
 
 .title (
- padding: 5px;
+ padding: 25px;
  border: 10px;
  font-size: 100px;
 }
 
 .about {
-  padding: 5px;
+  padding: 25px;
   border: 10px;
   font-size: 40px; 
 }
