@@ -5,9 +5,11 @@ body {
 .title (
  padding: 5px;
  border: 10px;
+ font-size: 40px;
 }
 
 .about {
   padding: 5px;
   border: 10px;
+  font-size: 40px; 
 }
