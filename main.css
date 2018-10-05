@@ -5,11 +5,11 @@ body {
 .title {
  padding: 25px;
  border: 10px;
- font-size: 20px;
+ font-size: 100px;
 }
 
 .about {
   padding: 25px;
   border: 10px;
-  font-size: 5px; 
+  font-size: 50px; 
 }
