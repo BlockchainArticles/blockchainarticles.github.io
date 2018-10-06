@@ -18,6 +18,20 @@ body {
   color: white;
 }
 
+.research {
+ padding: 5px;
+ border: 10px;
+ font-size: 25px;
+ color: white;
+}
+
+.blog {
+ padding: 5px;
+ border: 10px;
+ font-size: 25px;
+ color: white;
+}
+
 .newsletter {
   padding: 5px;
   border: 10px;
