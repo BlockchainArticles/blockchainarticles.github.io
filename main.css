@@ -25,6 +25,13 @@ body {
  color: white;
 }
 
+.speaking {
+ padding: 5px;
+ border: 10px;
+ font-size: 25px;
+ color: white;
+}
+
 .blog {
  padding: 5px;
  border: 10px;
